@@ -17,12 +17,13 @@ This Decentralized  Application (DApp) demonstrates a platform for individuals t
 - React
 - TailwindCSS
 - Javascript
-- solidity
+- Solidity
 - Thirdweb -  A Web3 development framework for creating, releasing, and deploying smart contracts.
 
 #### Project Structure
-- Back-end Parts (solidity): Located in the web3 folder.
 - Front-end Parts: Located in the client folder.
+- Back-end Parts (solidity): Located in the web3 folder.
+
 
 ### Blockchain Importance 
 - Transparency: All transactions and campaign activities are recorded on the blockchain, ensuring transparency and preventing fraud.
